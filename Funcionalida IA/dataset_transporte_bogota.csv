@@ -1,0 +1,501 @@
+distancia_km,transporte,hora_pico,clima_lluvioso,retraso_alto
+5.12,TransMilenio,0,0,0
+11.46,TransMilenio,1,1,1
+9.05,TransMilenio,0,0,1
+7.59,A pie,0,0,0
+2.72,Bicicleta,1,0,0
+2.72,A pie,0,1,0
+1.64,Bicicleta,1,0,0
+10.53,A pie,0,0,1
+7.61,A pie,1,0,1
+8.79,Moto,0,0,1
+1.23,A pie,1,0,0
+11.67,Taxi/Uber,1,0,1
+10.16,Moto,0,0,1
+3.34,A pie,0,0,0
+3.0,TransMilenio,1,0,0
+3.02,Taxi/Uber,0,0,0
+4.35,Taxi/Uber,0,0,0
+6.77,Taxi/Uber,0,0,0
+5.75,Moto,0,0,0
+4.2,A pie,1,0,0
+7.73,A pie,1,0,1
+2.53,TransMilenio,0,1,0
+4.21,TransMilenio,0,0,0
+5.03,Taxi/Uber,1,0,0
+6.02,TransMilenio,0,0,0
+9.64,Moto,0,0,1
+3.2,A pie,1,0,0
+6.66,Taxi/Uber,1,0,1
+7.52,TransMilenio,1,0,1
+1.51,Moto,1,0,0
+7.68,Moto,0,1,1
+2.88,TransMilenio,1,1,1
+1.72,A pie,0,0,0
+11.44,TransMilenio,0,0,1
+11.62,Taxi/Uber,0,1,1
+9.89,TransMilenio,0,0,1
+4.35,Moto,1,0,0
+2.07,TransMilenio,0,1,0
+8.53,A pie,0,0,1
+5.84,Bicicleta,0,0,0
+2.34,TransMilenio,0,1,0
+6.45,A pie,1,0,1
+1.38,A pie,0,0,0
+11.0,Moto,1,0,1
+3.85,A pie,0,1,0
+8.29,A pie,0,1,1
+4.43,A pie,1,1,1
+6.72,A pie,0,0,0
+7.01,Taxi/Uber,1,1,1
+3.03,Taxi/Uber,0,1,0
+11.67,Moto,0,0,1
+9.53,TransMilenio,1,1,1
+11.33,A pie,0,1,1
+10.84,TransMilenio,0,0,1
+7.58,TransMilenio,1,0,1
+11.14,Moto,0,0,1
+1.97,A pie,1,0,0
+3.16,A pie,0,0,0
+1.5,Bicicleta,1,0,0
+4.58,TransMilenio,1,1,1
+5.28,TransMilenio,1,1,1
+3.98,Taxi/Uber,1,1,1
+10.12,Bicicleta,0,0,1
+4.92,Taxi/Uber,1,0,0
+4.09,Taxi/Uber,0,0,0
+6.97,Taxi/Uber,0,0,0
+2.55,Moto,0,1,0
+9.82,Moto,0,1,1
+1.82,Taxi/Uber,0,0,0
+11.86,Bicicleta,1,1,1
+9.49,TransMilenio,1,1,1
+3.19,Bicicleta,1,0,0
+1.06,A pie,0,1,0
+9.97,Moto,1,0,1
+8.78,TransMilenio,0,0,1
+9.02,TransMilenio,0,0,1
+9.48,A pie,0,0,1
+1.81,A pie,0,0,0
+4.94,Taxi/Uber,1,0,0
+2.27,Moto,0,0,0
+10.49,Moto,0,0,1
+7.86,Bicicleta,0,0,0
+4.64,Taxi/Uber,0,0,0
+1.7,Taxi/Uber,0,0,0
+4.42,Taxi/Uber,1,0,0
+4.58,Taxi/Uber,0,0,0
+9.03,Moto,0,0,1
+8.01,Moto,0,0,1
+10.76,Taxi/Uber,1,0,1
+6.19,Bicicleta,1,1,1
+2.32,TransMilenio,1,0,0
+8.85,TransMilenio,1,0,1
+9.37,Bicicleta,0,1,1
+7.17,Taxi/Uber,0,1,0
+9.48,Moto,1,1,1
+6.43,TransMilenio,1,1,1
+6.75,A pie,1,0,1
+5.7,A pie,1,0,0
+1.28,Bicicleta,1,0,0
+2.19,Taxi/Uber,1,0,0
+1.35,TransMilenio,1,0,0
+8.0,Taxi/Uber,1,0,1
+4.46,TransMilenio,1,0,1
+6.59,Bicicleta,1,1,1
+10.98,Bicicleta,0,1,1
+3.74,A pie,1,0,0
+5.51,Taxi/Uber,0,1,0
+9.31,A pie,0,0,1
+3.52,Taxi/Uber,1,1,1
+1.85,A pie,0,0,0
+4.19,Moto,0,1,0
+2.77,Moto,0,0,0
+11.23,Moto,0,0,1
+9.89,Moto,1,0,1
+7.97,TransMilenio,0,0,0
+10.59,Moto,0,0,1
+9.84,Bicicleta,0,0,1
+3.05,Bicicleta,1,0,0
+10.82,TransMilenio,1,0,1
+6.93,Moto,0,0,0
+9.88,Moto,0,1,1
+10.86,Moto,0,0,1
+4.5,A pie,1,0,0
+2.21,Taxi/Uber,1,0,0
+3.51,A pie,0,1,0
+5.7,Taxi/Uber,0,0,0
+10.0,Moto,0,1,1
+10.47,Moto,1,1,1
+1.08,A pie,0,0,0
+6.62,A pie,0,0,0
+5.59,Taxi/Uber,0,1,0
+3.44,Bicicleta,0,1,1
+2.32,Taxi/Uber,1,0,0
+4.71,A pie,0,0,0
+11.37,A pie,1,1,1
+4.56,TransMilenio,1,0,1
+6.71,A pie,0,1,1
+8.73,TransMilenio,0,0,1
+5.0,Bicicleta,1,0,0
+11.69,Taxi/Uber,0,1,1
+11.59,Taxi/Uber,0,0,1
+3.77,TransMilenio,1,0,0
+6.47,Taxi/Uber,0,0,0
+4.31,A pie,0,0,0
+4.13,Moto,0,0,0
+1.41,TransMilenio,1,0,0
+7.71,Taxi/Uber,0,0,0
+6.53,TransMilenio,0,1,1
+1.57,TransMilenio,0,0,0
+4.07,Moto,0,0,0
+10.99,A pie,0,0,1
+3.64,TransMilenio,0,1,0
+2.59,Taxi/Uber,0,1,0
+6.38,Bicicleta,0,0,0
+11.84,TransMilenio,0,0,1
+3.66,TransMilenio,0,0,0
+8.39,Moto,0,1,1
+9.38,A pie,0,1,1
+3.61,Bicicleta,1,0,0
+9.01,Taxi/Uber,0,1,1
+5.05,Bicicleta,0,1,1
+7.96,Taxi/Uber,0,0,0
+7.97,A pie,1,0,1
+6.89,Taxi/Uber,1,0,1
+1.99,Moto,0,0,0
+10.19,Moto,0,1,1
+4.53,Moto,1,0,0
+3.05,Moto,0,0,0
+1.45,Bicicleta,0,0,0
+7.5,A pie,0,0,0
+8.45,Taxi/Uber,0,0,1
+1.18,Taxi/Uber,1,0,0
+6.63,Moto,1,0,1
+3.49,Moto,0,0,0
+8.1,TransMilenio,0,0,1
+2.92,A pie,1,0,0
+8.6,Bicicleta,1,0,1
+5.25,Taxi/Uber,1,0,0
+11.3,TransMilenio,1,0,1
+2.51,TransMilenio,1,0,0
+4.75,Taxi/Uber,1,0,0
+2.25,Bicicleta,0,0,0
+11.17,TransMilenio,0,1,1
+10.65,TransMilenio,1,0,1
+3.84,A pie,0,0,0
+8.26,Bicicleta,1,1,1
+9.99,TransMilenio,0,0,1
+7.11,Bicicleta,0,0,0
+6.83,Taxi/Uber,0,1,0
+3.66,Moto,0,1,0
+2.02,TransMilenio,1,0,0
+10.87,A pie,1,0,1
+10.9,Taxi/Uber,1,0,1
+7.96,Bicicleta,1,0,1
+4.73,Taxi/Uber,0,0,0
+4.84,TransMilenio,0,0,0
+8.99,Bicicleta,0,0,1
+10.87,Moto,0,0,1
+10.76,Taxi/Uber,0,1,1
+9.58,TransMilenio,0,0,1
+8.06,A pie,0,0,1
+1.93,Bicicleta,1,0,0
+2.78,Taxi/Uber,1,0,0
+10.88,Taxi/Uber,0,0,1
+7.67,Moto,1,0,1
+1.1,Moto,1,0,0
+2.12,A pie,0,0,0
+8.3,A pie,1,0,1
+1.06,TransMilenio,1,0,0
+2.77,TransMilenio,0,0,0
+7.04,A pie,0,0,0
+8.61,A pie,0,1,1
+8.17,Bicicleta,0,0,1
+3.47,Moto,0,0,0
+8.83,TransMilenio,1,0,1
+3.61,Moto,0,0,0
+4.58,Moto,0,1,0
+9.21,A pie,1,0,1
+8.15,Bicicleta,1,1,1
+10.34,Taxi/Uber,0,0,1
+8.23,Bicicleta,0,0,1
+7.25,Bicicleta,0,0,0
+2.03,Moto,1,1,0
+5.04,Bicicleta,0,0,0
+3.92,TransMilenio,0,0,0
+3.68,Moto,1,1,1
+11.7,TransMilenio,0,0,1
+5.32,Taxi/Uber,1,0,0
+10.81,Moto,1,0,1
+7.94,Taxi/Uber,0,1,1
+9.74,Moto,1,0,1
+6.53,A pie,0,1,1
+7.35,Bicicleta,1,1,1
+6.42,A pie,0,0,0
+3.15,Taxi/Uber,1,0,0
+8.95,Bicicleta,0,0,1
+4.09,Moto,1,0,0
+1.27,Bicicleta,1,1,1
+8.1,TransMilenio,0,1,1
+2.95,Bicicleta,1,0,0
+11.35,TransMilenio,0,0,1
+11.49,Bicicleta,0,0,1
+11.06,TransMilenio,0,0,1
+5.07,Taxi/Uber,0,0,0
+1.17,A pie,0,0,0
+11.21,Moto,1,0,1
+5.71,Bicicleta,0,0,0
+11.63,A pie,1,0,1
+11.6,Moto,0,0,1
+10.38,Moto,1,0,1
+4.24,TransMilenio,1,1,1
+5.24,Taxi/Uber,0,0,0
+10.36,Taxi/Uber,1,1,1
+4.49,A pie,0,1,0
+2.86,Taxi/Uber,1,0,0
+7.12,Bicicleta,0,1,1
+11.3,Taxi/Uber,1,0,1
+8.66,A pie,0,0,1
+7.27,Taxi/Uber,0,0,0
+2.07,Bicicleta,1,0,0
+7.77,TransMilenio,0,0,0
+11.89,A pie,0,0,1
+2.54,TransMilenio,0,0,0
+6.7,TransMilenio,0,0,0
+10.65,TransMilenio,0,0,1
+9.15,Moto,0,1,1
+8.67,Moto,0,0,1
+8.73,TransMilenio,0,0,1
+4.95,A pie,1,1,1
+4.23,Bicicleta,0,0,0
+9.9,Bicicleta,0,0,1
+9.91,Taxi/Uber,0,0,1
+10.54,A pie,0,0,1
+11.05,Moto,1,1,1
+6.62,TransMilenio,0,0,0
+6.52,Taxi/Uber,0,1,0
+9.78,Bicicleta,1,0,1
+8.15,Moto,1,0,1
+8.72,Moto,0,0,1
+9.75,TransMilenio,1,0,1
+10.79,Bicicleta,1,0,1
+4.72,A pie,0,1,0
+5.13,Moto,1,1,1
+2.03,TransMilenio,1,0,0
+7.36,A pie,0,1,1
+1.4,Bicicleta,0,1,0
+6.12,Moto,0,0,0
+6.97,A pie,1,0,1
+4.15,A pie,1,0,0
+7.5,A pie,1,0,1
+1.34,Moto,0,0,0
+1.41,Moto,1,0,0
+10.05,Taxi/Uber,0,1,1
+4.96,Bicicleta,0,0,0
+2.4,TransMilenio,0,0,0
+6.74,A pie,1,1,1
+9.47,Taxi/Uber,0,1,1
+3.37,TransMilenio,1,0,0
+7.85,Taxi/Uber,0,1,1
+1.94,Moto,0,0,0
+1.57,A pie,0,0,0
+6.84,TransMilenio,0,0,0
+6.95,TransMilenio,1,0,1
+8.01,TransMilenio,0,0,1
+8.99,TransMilenio,1,0,1
+11.73,TransMilenio,0,0,1
+6.68,Taxi/Uber,1,0,1
+4.55,A pie,0,0,0
+9.75,Moto,1,1,1
+3.98,Moto,1,0,0
+5.83,Moto,0,0,0
+1.86,Moto,0,0,0
+1.28,Taxi/Uber,1,0,0
+11.59,Bicicleta,1,0,1
+10.2,A pie,0,1,1
+8.66,TransMilenio,1,0,1
+5.5,Bicicleta,1,0,0
+2.91,Moto,1,0,0
+2.72,Bicicleta,1,0,0
+3.75,A pie,1,0,0
+7.04,TransMilenio,0,0,0
+8.86,TransMilenio,0,0,1
+8.26,A pie,0,0,1
+4.08,A pie,1,0,0
+11.5,Moto,1,0,1
+9.12,TransMilenio,0,1,1
+7.1,Bicicleta,1,1,1
+7.73,Taxi/Uber,1,1,1
+5.62,Taxi/Uber,0,0,0
+3.73,A pie,0,0,0
+4.92,Moto,0,0,0
+9.34,Taxi/Uber,0,0,1
+1.16,TransMilenio,0,0,0
+2.28,A pie,0,0,0
+1.51,Bicicleta,0,0,0
+1.45,A pie,0,1,0
+10.41,Bicicleta,0,0,1
+8.74,A pie,0,0,1
+6.22,A pie,1,0,1
+2.08,A pie,0,1,0
+6.41,Bicicleta,1,0,1
+6.21,Bicicleta,1,0,1
+2.91,A pie,0,0,0
+5.77,Taxi/Uber,0,0,0
+5.38,Moto,0,0,0
+7.77,Moto,0,1,1
+7.99,Moto,1,0,1
+1.5,Bicicleta,0,0,0
+5.12,Bicicleta,0,0,0
+7.88,Taxi/Uber,0,0,0
+6.53,Moto,0,0,0
+10.42,Moto,1,0,1
+8.25,A pie,0,0,1
+2.79,Bicicleta,0,0,0
+1.78,Moto,0,0,0
+8.07,Taxi/Uber,1,0,1
+1.29,Taxi/Uber,0,0,0
+7.44,Moto,0,1,1
+11.34,Bicicleta,1,0,1
+7.33,Taxi/Uber,0,0,0
+5.27,A pie,1,1,1
+8.08,Taxi/Uber,1,0,1
+6.04,TransMilenio,1,1,1
+7.0,TransMilenio,1,0,1
+11.36,Bicicleta,1,1,1
+5.25,Moto,1,0,0
+11.57,Bicicleta,1,0,1
+10.96,Bicicleta,1,0,1
+3.15,Bicicleta,0,1,1
+1.76,Bicicleta,0,1,0
+2.11,A pie,0,0,0
+1.2,A pie,0,0,0
+2.04,Taxi/Uber,0,1,0
+8.51,TransMilenio,0,0,1
+1.78,Bicicleta,0,1,0
+4.51,Taxi/Uber,1,1,1
+10.29,TransMilenio,1,0,1
+1.26,Moto,0,0,0
+9.96,A pie,0,0,1
+4.1,TransMilenio,1,0,1
+2.3,Moto,0,1,0
+8.66,TransMilenio,1,0,1
+7.92,A pie,0,1,1
+10.65,A pie,0,0,1
+9.09,Taxi/Uber,1,1,1
+9.84,Bicicleta,0,0,1
+4.1,TransMilenio,1,0,1
+2.95,TransMilenio,1,0,0
+9.26,Moto,0,1,1
+9.88,A pie,1,0,1
+11.9,TransMilenio,1,1,1
+5.54,A pie,0,0,0
+5.09,TransMilenio,1,0,1
+9.54,Taxi/Uber,0,0,1
+4.75,Bicicleta,1,0,0
+11.24,TransMilenio,1,0,1
+10.44,A pie,0,1,1
+5.72,Taxi/Uber,1,1,1
+9.26,TransMilenio,1,1,1
+9.3,Moto,1,1,1
+2.13,Bicicleta,1,0,0
+10.93,TransMilenio,1,0,1
+6.56,Taxi/Uber,0,0,0
+10.09,Moto,1,1,1
+4.52,Taxi/Uber,0,0,0
+10.85,Taxi/Uber,0,0,1
+5.28,Moto,1,0,0
+1.12,Taxi/Uber,0,0,0
+10.96,Moto,0,1,1
+2.0,TransMilenio,0,1,0
+4.51,Moto,0,0,0
+11.45,Moto,1,1,1
+11.46,Bicicleta,0,0,1
+7.31,Moto,1,0,1
+7.95,Moto,0,0,0
+5.93,TransMilenio,1,0,1
+4.23,Bicicleta,0,0,0
+4.62,A pie,0,1,0
+8.4,TransMilenio,1,0,1
+9.28,TransMilenio,1,1,1
+9.71,A pie,0,0,1
+9.69,Moto,0,0,1
+2.0,Taxi/Uber,0,0,0
+6.44,Bicicleta,0,0,0
+1.63,Taxi/Uber,1,0,0
+7.04,A pie,0,1,1
+5.86,TransMilenio,0,0,0
+10.76,TransMilenio,0,0,1
+4.86,Bicicleta,0,0,0
+2.29,TransMilenio,0,0,0
+2.57,TransMilenio,0,0,0
+9.38,Bicicleta,0,0,1
+7.8,Bicicleta,0,0,0
+2.11,A pie,1,0,0
+1.93,TransMilenio,0,0,0
+8.71,TransMilenio,1,0,1
+1.8,A pie,0,0,0
+10.04,Moto,1,0,1
+8.77,Moto,1,1,1
+1.89,Moto,1,0,0
+1.93,A pie,1,0,0
+11.85,TransMilenio,0,0,1
+5.12,A pie,0,1,0
+5.08,A pie,0,0,0
+9.94,Moto,0,0,1
+11.42,Taxi/Uber,0,1,1
+11.85,TransMilenio,0,0,1
+9.29,Moto,1,0,1
+5.14,Taxi/Uber,0,0,0
+1.92,Taxi/Uber,1,0,0
+9.55,Bicicleta,1,1,1
+7.14,TransMilenio,1,1,1
+5.67,Taxi/Uber,0,0,0
+10.97,Moto,0,0,1
+2.22,Bicicleta,0,0,0
+6.42,TransMilenio,0,0,0
+1.12,A pie,1,1,0
+6.16,Moto,0,0,0
+1.62,Taxi/Uber,1,0,0
+2.31,Taxi/Uber,0,1,0
+2.29,Moto,1,0,0
+8.14,Taxi/Uber,1,0,1
+9.21,Bicicleta,0,0,1
+7.42,TransMilenio,0,1,1
+11.58,Bicicleta,0,0,1
+5.12,Taxi/Uber,0,0,0
+4.14,A pie,0,0,0
+10.55,TransMilenio,0,0,1
+3.46,TransMilenio,0,1,0
+11.6,Moto,0,1,1
+1.13,Moto,0,0,0
+11.67,A pie,1,0,1
+1.47,TransMilenio,0,0,0
+10.8,A pie,1,0,1
+6.8,Moto,0,0,0
+11.92,Moto,0,1,1
+1.81,TransMilenio,1,0,0
+7.09,Bicicleta,0,0,0
+11.66,Taxi/Uber,0,0,1
+6.75,Moto,0,1,0
+7.92,Moto,0,1,1
+8.65,Bicicleta,0,1,1
+6.0,Bicicleta,0,0,0
+7.9,A pie,1,0,1
+7.43,A pie,0,1,1
+10.91,Taxi/Uber,0,0,1
+1.5,Taxi/Uber,0,0,0
+4.09,TransMilenio,1,1,1
+11.45,A pie,0,1,1
+10.79,Moto,0,0,1
+6.01,A pie,0,0,0
+7.82,Moto,1,0,1
+4.05,Bicicleta,0,0,0
+3.07,A pie,0,0,0
+6.1,Bicicleta,0,1,1
+4.89,Taxi/Uber,1,1,1
+7.42,Taxi/Uber,0,1,1
+1.86,TransMilenio,0,0,0
+11.72,A pie,1,1,1
+11.85,Bicicleta,1,1,1
